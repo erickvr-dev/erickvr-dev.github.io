@@ -1,25 +1,25 @@
-name: John Doe
+name: Erick Vasquez Rojas
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: erickvr2k@gmail.com
+  github: erickvr2k
+  linkedin: erickvr2k
+  phone: +591 70785657
+  gitlab: erickvr2k
+  twitter: erickvr2k
 
 languages:
+  - idiom: Spanish(native)
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Quechua
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Electronics
+    time: 1999-2004
+    university: San Simon's University
 
   - degree: BSc in Computer Science
     time: 2010-2014
